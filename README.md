@@ -47,7 +47,8 @@ Ensure that both VMs are in the same Vnet (you can check the topology with Netwo
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vTXLeGr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping)
@@ -57,7 +58,8 @@ Check back at Client-1 to see the ping succeed
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cRkQdrH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/79nh6Yk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Login to DC-1 and install Active Directory Domain Services
