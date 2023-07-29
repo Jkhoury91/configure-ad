@@ -69,7 +69,7 @@ Restart and then log back into DC-1 as user: mydomain.com\labuser
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HFE5QxA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
@@ -83,7 +83,7 @@ User jane_admin as your admin account from now on
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/17u540q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address
@@ -96,7 +96,7 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yh3ane0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into Client-1 as mydomain.com\jane_admin and open system properties
@@ -108,7 +108,7 @@ Normally you’d want to do this with Group Policy that allows you to change MAN
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gVuC0Ye.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into DC-1 as jane_admin
